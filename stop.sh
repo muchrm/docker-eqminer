@@ -1,2 +1,2 @@
 #!/bin/bash
-docker container rm -f nheqminer
+docker container rm -f miner
